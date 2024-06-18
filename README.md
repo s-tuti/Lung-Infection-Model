@@ -8,7 +8,8 @@ Welcome to the Lung Infection Detection Model repository. This project houses an
 
 - **Advanced Learning Framework:** The model leverages a state-of-the-art convolutional neural network (CNN) for precise image categorization.
 - **Pre-established Model:** Benefit from a model that has undergone training on an extensive array of chest X-ray images, ensuring robust and reliable functionality.
-- **Web Application:** Experience the convenience of a user-friendly web-based platform, allowing users to submit X-ray images and obtain prompt prognoses. (*Please note: The web application is currently under maintenance and not operational.*)
+- **Web Application:** Experience the convenience of a user-friendly web-based platform, allowing users to submit X-ray images and obtain prompt prognoses.
+- `Please note: The web application is currently under maintenance and not operational.`
 
 ## Getting Started
 
