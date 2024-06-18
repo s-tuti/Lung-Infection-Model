@@ -67,4 +67,4 @@ Contributions are encouraged! If you encounter any issues or have suggestions fo
 
 ## License
 
-This project is licensed under the MIT License - see the [(LICENSE.txt)](https://github.com/s-tuti/LUNG-INFECTION-MODEL/blob/main/LICENSE.txt)https://github.com/s-tuti/LUNG-INFECTION-MODEL/blob/main/LICENSE.txt file for details.
+This project is licensed under the MIT License - see the [(LICENSE)](https://github.com/s-tuti/LUNG-INFECTION-MODEL/blob/main/LICENSE.txt) file for details.
